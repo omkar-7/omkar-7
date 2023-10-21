@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Omkar Biranje.
----
 Currently working as an SDE, Amazon, India.
-
+<img align="right" alt="GIF" src="https://github.com/omkar-7/omkar-7/blob/main/laptop.gif?raw=true" width="500" height="320" />
 #### Tools & Technologies I'm familiar with
 ![Static Badge](https://img.shields.io/badge/Languages-green)
 ![Static Badge](https://img.shields.io/badge/C++-blue)
@@ -14,7 +13,6 @@ Currently working as an SDE, Amazon, India.
 ![Static Badge](https://img.shields.io/badge/ReactJS-blue)
 ![Static Badge](https://img.shields.io/badge/Salesforce-blue)
 
----
 
 #### Here are some of the projects I've worked upon:
 #### 1. CXR-Diagnosis:
